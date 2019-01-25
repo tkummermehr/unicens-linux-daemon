@@ -1,11 +1,11 @@
 # UNICENS XML Description
+added
 
-This file describes how to write a valid UNICENS XML configuration file.
 
 **1.) XML Basics**
 
 Note that the rules of XML enforce that the document is well formed.
-This means it is zero tolerant, a single typo will invalidate the whole document and any application using it must not continue.
+This means it is zero tolerant, a single typo will invalidate the whole document and any application using it must not continue xx.
 Therefore, it is useful in any case to use an IDE to check the document.
 This can be the UNICENS<sup>TM</sup> System Designer, which covers a deep rule set related to UNICENS, INIC and drivers.
 But any other IDE will work too, however, with less functionality (Atmel Studio, MPLAB-X, Eclipse, NetBeans, Visual Studio).
